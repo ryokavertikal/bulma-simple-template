@@ -1,0 +1,29 @@
+.hero {
+	padding: 15px;
+}
+
+.main-content {
+    padding: 75px 0;
+}
+
+.title {
+	font-size: 35px;
+	margin: 7px 35px;
+}	
+
+.subtitle {
+    padding-top: 5px;
+}	
+	
+.paragraph {
+	text-align: justify;
+	margin: 7px 35px;
+}
+
+.tagged {
+	margin: 7px 35px;
+}	
+
+.footer .content {
+	margin-top: 41px;
+}	
